@@ -1,3 +1,3 @@
 La base de datos de virus ha sido actualizada!
 
-Se ha encontrado una amenaza!
+Se ha encontrado una amenaza! Se ha encontrado una amenaza en master!
