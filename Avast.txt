@@ -1,3 +1,6 @@
 La base de datos de virus ha sido actualizada!
 
 Se ha encontrado una amenaza!
+
+
+Guardar en el Baul!
