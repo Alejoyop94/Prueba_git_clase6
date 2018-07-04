@@ -1,3 +1,10 @@
 La base de datos de virus ha sido actualizada!
 
+<<<<<<< HEAD
 Se ha encontrado una amenaza! Se ha encontrado una amenaza en master!
+=======
+Se ha encontrado una amenaza!
+
+
+Guardar en el Baul!
+>>>>>>> desarrollo
